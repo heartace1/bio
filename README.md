@@ -1,5 +1,5 @@
 # bio
-My biography
+My biography<br>
 My name is Dmitriy Posternak. I was born in Kharkiv, Ukraine.
 I have been studying at Kharkiv Computer and Technology College National Technical University "Kharkiv Polytechnic Institute" 
 since September 1st 2012. During the study I pay special attention to learning English, Object-Oriented Programming, Specialized
